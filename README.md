@@ -24,7 +24,7 @@ Blog --> https://medium.com/@Alfonso_Ghislieri
 | **Wormz**                  |  2d game inspired by Team17's Worms  | Node.js, Matter.js, p5.js, Mocha/Chain | [GitHub](https://github.com/AlfonsoGhislieri/wormz) |
 | **Instagram**              | Instagram clone     | Rails, JavaScript, PostgreSQL, RSpec, Capybara | [GitHub](https://github.com/AlfonsoGhislieri/instagram-challenge) |
   | **Acebook**              | Facebook clone     | Rails, JavaScript, PostgreSQL, RSpec, Capybara | [GitHub](https://github.com/AlfonsoGhislieri/acebook-rails-template-simple) |
-| **Guardian News**          |Website that shows news using the Guardian API | Javascript, CSS, HTML, Jest | [Github](https://github.com/AlfonsoGhislieri/news-summary-challenge) |
+| **Guardian News**          |Single-page application that displays news fetching data from Guardian API | Javascript, CSS, HTML, Jest | [Github](https://github.com/AlfonsoGhislieri/news-summary-challenge) |
 |**MakersBnB**                | AirBnB clone    | Ruby, Sinatra, PostregreSQL, RSpec, Capybara | [Github](https://github.com/IbrahimAC/makersbnb)|
 | **Chitter**                  | Twitter clone     | Ruby, Sinatra, PostregreSQL, RSpec, Capybara  | [GitHub](https://github.com/AlfonsoGhislieri/chitter-challenge)|
 | **Fantasy Football Analytics** | Data analysis and visualisation of fantasy football statistics  | Python, Pandas, Seaborn, Matplotlib | [GitHub](https://github.com/AlfonsoGhislieri/Fantasy-Football-Analytics) | 
