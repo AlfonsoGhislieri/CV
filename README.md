@@ -54,7 +54,7 @@ _16-week highly selective coding bootcamp, learning best practices and agile met
 - Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
 - Following OOP principles like TDD and S.O.L.I.D to write clear,  easily modifiable and well-tested code.
 - Collaborating in projects using GitHub for version control and using CI/CD to reduce integration risks.
-- Understanding project requirements, creating user stories, defining MVP's features, breaking features into smaller tasks to easily accomplish them.
+- Understanding project requirements, creating user stories, defining features for an MVP and breaking features into smaller tasks to easily accomplish them.
 
 
 #### University of Harvard CS50x (2021)
