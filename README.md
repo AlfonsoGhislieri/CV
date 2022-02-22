@@ -25,7 +25,7 @@ Blog --> https://medium.com/@Alfonso_Ghislieri
 | **Instagram**              | Instagram clone     | Rails, JavaScript, PostgreSQL, RSpec, Capybara | [GitHub](https://github.com/AlfonsoGhislieri/instagram-challenge) |
   | **Acebook**              | Facebook clone     | Rails, JavaScript, PostgreSQL, RSpec, Capybara | [GitHub](https://github.com/AlfonsoGhislieri/acebook-rails-template-simple) |
 | **Guardian News**          |Single-page application that displays news fetching data from Guardian API | Javascript, CSS, HTML, Jest | [Github](https://github.com/AlfonsoGhislieri/news-summary-challenge) |
-|**MakersBnB**                | AirBnB clone    | Ruby, Sinatra, PostregreSQL, RSpec, Capybara | [Github](https://github.com/IbrahimAC/makersbnb)|
+|**MakersBnB**                | AirBnB clone    | Ruby, Sinatra, PostregreSQL, RSpec, Capybara | [Github](https://github.com/AlfonsoGhislieri/makersbnb)|
 | **Chitter**                  | Twitter clone     | Ruby, Sinatra, PostregreSQL, RSpec, Capybara  | [GitHub](https://github.com/AlfonsoGhislieri/chitter-challenge)|
 | **Fantasy Football Analytics** | Data analysis and visualisation of fantasy football statistics  | Python, Pandas, Seaborn, Matplotlib | [GitHub](https://github.com/AlfonsoGhislieri/Fantasy-Football-Analytics) | 
 
