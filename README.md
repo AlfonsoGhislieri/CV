@@ -7,7 +7,7 @@
   
 Bachelor's degree in History and Master's degree in International Relations, formerly worked at the United Nations and the Right Livelihood Award Foundation.
 
-Nearly two years ago I embarked on my coding journey. It all started with a free course offered by Stanford University at the start of the Covid-19 pandemic. I stumbled around trying to make Karel the robot stop spinning endlessly for hours, as I to figured out how loops worked.
+My journey into coding all started with a free course offered by Stanford University at the start of the Covid-19 pandemic. I stumbled around trying to make Karel the robot stop spinning endlessly across my screen, as I figured out how loops worked. 
   
 I was instantly hooked. I loved how much there was to learn. All the different rabbit holes to go down. The freedom to create anything. So I continued studying, learning new languages, creating programs, slowly making them more and more complex. I'd be lying if I didn't at times spend hours frustrated and unable to fix a bug which ended up just being a missnamed variable or a missing bracket. But, I knew that I was truly passionate about programming and therefore it was something I should pursue as a career rather than just as a hobby.
   
@@ -49,9 +49,13 @@ My ability to learn and speak multiple languages has translated in my programmin
 
 #### Makers Academy (2021-2022) 
 _16-week highly selective coding bootcamp, learning best practices and agile methodologies_
-- Focus on Object Orientated Programming, Test Driven Development and Pair Programming.
-- JavaScript, Ruby, Sinatra, Rails, RSpec, Jest.
-- Git version control.
+- JavaScript, Ruby, Rails, Sinatra, RSpec, Jest.
+- Emphasis on self-learning.
+- Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
+- Following OOP principles like TDD and S.O.L.I.D to write clear,  easily modifiable and well-tested code.
+- Collaborating in projects using GitHub for version control and using CI/CD to reduce integration risks.
+- Understanding project requirements, creating user stories, defining MVP's features, breaking features into smaller tasks to easily accomplish them.
+
 
 #### University of Harvard CS50x (2021)
 
