@@ -51,9 +51,9 @@ My ability to learn and speak multiple languages has translated in my programmin
 _16-week highly selective coding bootcamp, learning best practices and agile methodologies_
 - JavaScript, Ruby, Rails, Sinatra, RSpec, Jest.
 - Emphasis on self-learning.
-- Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
-- Following OOP principles like TDD and S.O.L.I.D to write clear,  easily modifiable and well-tested code.
-- Collaborating in projects using GitHub for version control and using CI/CD to reduce integration risks.
+- Following OOP principles like TDD and S.O.L.I.D to write clear, modular and well-tested code.
+- Implementing Agile methodologies to work effectively in a team. Pair programming, XP values, daily standups and retros, sprint planning.
+- Collaborating on projects using GitHub for version control and using CI/CD to reduce integration risks.
 - Understanding project requirements, creating user stories, defining features for an MVP and breaking features into smaller tasks to easily accomplish them.
 
 
@@ -112,7 +112,9 @@ _Customer Relations_
 
 _Website development Intern_
 
-- Set up a static company website using HTML, CSS and JavaScript.
+Set up a static company website 
+- Set up a static website for an Italian agricultural company (Wine/Olive Oil).
+- HTML, CSS and JavaScript.
 
 # Hobbies 
 
