@@ -33,7 +33,7 @@ Blog --> https://medium.com/@Alfonso_Ghislieri
  
   #### Critical thinking  
 
-My Bachelor's degree in History and Master's degree in International Relations taught me to think critically. This skill has been transfered and improved during my programming studies. I have learnt not simply be satisfied by the easiest or first solution to solving a problem, I always question if there is a better solution or whether mine can be improved upon. 
+My Bachelor's degree in History and Master's degree in International Relations taught me to think critically. This skill has been transferred and improved during my programming studies. I have learnt not simply to be satisfied by the easiest or first solution to solving a problem, I always question if there is a better solution or whether mine can be improved upon.
   
  #### Teamwork 
 
