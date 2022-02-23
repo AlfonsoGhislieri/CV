@@ -44,42 +44,6 @@ Having been both a leader and member of various teams, has taught me how to effe
 _Fluent in English, French, Italian and highly competent in Spanish_
 
 My ability to learn and speak multiple languages has translated in my programming. Paired with a learning mindset that always looks for improvement, it has created the foundation for me to easily pick up new languages and tools.
-
-# Education 
-
-#### Makers Academy (2021-2022) 
-_16-week highly selective coding bootcamp, learning best practices and agile methodologies_
-- JavaScript, Ruby, Rails, Sinatra, RSpec, Jest.
-- Emphasis on self-learning.
-- Following OOP principles like TDD and S.O.L.I.D to write clear, modular and well-tested code.
-- Implementing Agile methodologies to work effectively in a team. Pair programming, XP values, daily standups and retros, sprint planning.
-- Collaborating on projects using GitHub for version control and using CI/CD to reduce integration risks.
-- Understanding project requirements, creating user stories, defining features for an MVP and breaking features into smaller tasks to easily accomplish them.
-
-
-#### University of Harvard CS50x (2021)
-
-_Programming course focused on teaching how to think algorithmically and solve problems efficiently_
-- Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming.
-- C, Python, SQL, HTML, CSS and JavaScript.
-- For my final project I taught myself Java and created an android app which divides tasks for users. [GitHub Repo](https://github.com/AlfonsoGhislieri/Task-Divider)
-
-#### University of Stanford CS106A (2020) 
-
-_Introductory Computer Science course_
-
-- Fundamentals of coding building up to solving real problems using Python.
-
-#### University of Warwick (2017-2019)
-
-_International Relations:_ MA(Hons) 
-- Security studies, human rights and intelligence.
-
-#### Royal Holloway University of London (2014-2017)
-
-_History:_ BA(Hons)
-- Modern socio-political history.
-
 # Work Experience 
 
 #### Right Livelihood (January - March 2020)
@@ -112,9 +76,43 @@ _Customer Relations_
 
 _Website development Intern_
 
-Set up a static company website 
 - Set up a static website for an Italian agricultural company (Wine/Olive Oil).
 - HTML, CSS and JavaScript.
+
+
+# Education 
+
+#### Makers Academy (2021-2022) 
+_16-week highly selective coding bootcamp, learning best practices and agile methodologies_
+- JavaScript, Ruby, Rails, Sinatra, RSpec, Jest.
+- Emphasis on self-learning.
+- Following OOP principles like TDD and S.O.L.I.D to write clear, modular and well-tested code.
+- Implementing Agile methodologies to work effectively in a team. Pair programming, XP values, daily standups and retros, sprint planning.
+- Collaborating on projects using GitHub for version control and using CI/CD to reduce integration risks.
+- Understanding project requirements, creating user stories, defining features for an MVP and breaking features into smaller tasks to easily accomplish them.
+
+#### University of Harvard CS50x (2021)
+
+_Programming course focused on teaching how to think algorithmically and solve problems efficiently_
+- Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming.
+- C, Python, SQL, HTML, CSS and JavaScript.
+- For my final project I taught myself Java and created an android app which divides tasks for users. [GitHub Repo](https://github.com/AlfonsoGhislieri/Task-Divider)
+
+#### University of Stanford CS106A (2020) 
+
+_Introductory Computer Science course_
+
+- Fundamentals of coding building up to solving real problems using Python.
+
+#### University of Warwick (2017-2019)
+
+_International Relations:_ MA(Hons) 
+- Security studies, human rights and intelligence.
+
+#### Royal Holloway University of London (2014-2017)
+
+_History:_ BA(Hons)
+- Modern socio-political history.
 
 # Hobbies 
 
