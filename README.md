@@ -64,7 +64,7 @@ _Intern_
 - Researched and drafted reports for thematic issues such as: the participation of Small-Island Developing States and Least-Developed Countries.
 - Assisted the legal team in processing complaints lodged for human rights violations.
 - Engaged with the Media team, creating short videos and social media posts.
-- Was the focal point for all interns in the President Wilson building.
+- Was the focal point for all interns.
 
 #### P.a.s.i SRL (Summer 2018)
 
