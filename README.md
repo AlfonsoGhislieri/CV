@@ -86,7 +86,7 @@ _Website development Intern_
 _16-week highly selective coding bootcamp, learning best practices and agile methodologies_
 - JavaScript, Ruby, Rails, Sinatra, RSpec, Jest.
 - Emphasis on self-learning.
-- Following OOP principles like TDD and S.O.L.I.D to write clear, modular and well-tested code.
+- Following OOP, TDD and S.O.L.I.D principles, to write clear, modular and well-tested code.
 - Implementing Agile methodologies to work effectively in a team. Pair programming, XP values, daily standups and retros, sprint planning.
 - Collaborating on projects using GitHub for version control and using CI/CD to reduce integration risks.
 - Understanding project requirements, creating user stories, defining features for an MVP and breaking features into smaller tasks to easily accomplish them.
