@@ -74,7 +74,7 @@ _Customer Relations_
 
 #### San Cosimo SNC (Summer 2016)</span> 
 
-_Website development Intern_
+_Frontend Web-Dev Intern_
 
 - Set up a static website for an Italian agricultural company (Wine/Olive Oil).
 - HTML, CSS and JavaScript.
