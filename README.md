@@ -40,7 +40,7 @@ My Bachelor's degree in History and Master's degree in International Relations t
   
 #### Curiosity 
  
-I have always been interested in learning more and expanding my knowledge, this was what led me to study History for my Bachelor's degree. This same curiosity is what has pushed me into programming and started my career swap.    
+I have always been interested in learning more and expanding my knowledge, this was what led me to study History. This same curiosity is what has guided me into programming and instigated my career swap. I am always looking to figure out why and how programs work, breaking them down and changing them in order to develop a better understanding and a better product.
   
  #### Teamwork 
 
@@ -51,6 +51,8 @@ Having been both a leader and member of various teams, has taught me how to effe
 _Fluent in English, French, Italian and highly competent in Spanish_
 
 My ability to learn and speak multiple languages has translated in my programming. Paired with a learning mindset that always looks for improvement, it has created the foundation for me to easily pick up new languages and tools.
+# Work Experience 
+
 # Work Experience 
 
 #### Right Livelihood (January - March 2020)
