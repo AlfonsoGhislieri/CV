@@ -33,11 +33,12 @@ Blog --> https://medium.com/@Alfonso_Ghislieri
  
   #### Critical thinking  
 
-My Bachelor's degree in History and Master's degree in International Relations taught me to think critically. This skill has been transferred and improved during my programming studies. I have learnt not simply to be satisfied by the easiest or first solution to solving a problem, I always question if there is a better solution or whether mine can be improved upon.
+My Bachelor's degree in History and Master's degree in International Relations taught me to think critically. This skill has been transferred and improved during my programming studies. I have learnt not simply to be satisfied by the easiest or first solution to solving a problem, I always question if there is a better solution or whether mine can be improved upon. For example, when I was working on making a clone of Instagram using Ruby on Rails I noticed that after each user action it would cause the page to refresh. I saw this as a major flaw as it hindered the user experience. I was able to solve this issue using JavaScript and DOM manipulation, allowing data to be displayed to the user, more akin to a single-page application, without causing the page to refresh. This resulted in a much cleaner user experience and more polished website.	
+
   
  #### Teamwork 
 
-Having been both a leader and member of various teams, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. Maker's Academy's focus on daily Pair Programming and group projects has also taught not only how to transfer these skills into the world of programming, but also how to work efficiently with a variety of different personalities.
+Having been both a leader and member of various teams, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. This was highlighted during the final engineering project at Makers when we were trying to create a 2d game. We struggled to progress using React Native and after three days of little progress I identified that team morale was low and time was running out. I researched an alternative library (p5.js), and proposed moving away from React Native. This was well received by the team, who were thankful that I took the initiative and found a solution. It resulted in us quickly progressing with our application. The final product was delivered on time and an overwhelming success, definitely exceeding our initial expectations.	
   
  #### Languages  
 
