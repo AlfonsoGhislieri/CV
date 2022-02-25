@@ -21,7 +21,7 @@ Blog --> https://medium.com/@Alfonso_Ghislieri
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :--------: |
-| **Wormz**                  |  2d game inspired by Team17's Worms  | Node.js, Express, Matter.js, p5.js, Mocha/Chain | [GitHub](https://github.com/AlfonsoGhislieri/wormz) |
+| **Wormz**                  |  2d game inspired by Team17's Worms  | Node.js, Express, Matter.js, p5.js, JavaScript, Mocha/Chain | [GitHub](https://github.com/AlfonsoGhislieri/wormz) |
 | **Instagram**              | Instagram clone     | Rails, JavaScript, PostgreSQL, RSpec, Capybara | [GitHub](https://github.com/AlfonsoGhislieri/instagram-challenge) |
   | **Acebook**              | Facebook clone     | Rails, JavaScript, PostgreSQL, RSpec, Capybara | [GitHub](https://github.com/AlfonsoGhislieri/acebook-rails-template-simple) |
 | **Guardian News**          |Single-page application that displays news fetching data from Guardian API | Javascript, CSS, HTML, Jest | [Github](https://github.com/AlfonsoGhislieri/news-summary-challenge) |
