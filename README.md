@@ -11,7 +11,7 @@ My journey into coding all started with a free course offered by Stanford Univer
   
 I was instantly hooked. I loved how much there was to learn. All the different rabbit holes to go down. The freedom to create anything. So I continued studying, learning new languages, creating programs, slowly making them more and more complex. I'd be lying if I didn't at times spend hours frustrated and unable to fix a bug which ended up just being a missnamed variable or a missing bracket. But, I knew that I was truly passionate about programming and therefore it was something I should pursue as a career rather than just as a hobby.
   
-Currently looking for a role where I can continue to learn and expand my programming knowledge.
+I am looking for a role where I can continue to learn and expand my programming knowledge.
 
 Portfolio website --> https://alfonsoghislieri.github.io/Portfolio/
  <br>
@@ -32,25 +32,25 @@ Blog --> https://medium.com/@Alfonso_Ghislieri
  
 #### Problem solving
   
-I cherish tackling problems and finding solutions. My drive for making a polished product leads me to find new and creative solutions. For example, when I was working on making a clone of Instagram using Ruby on Rails I noticed that after each user action it would cause the page to refresh. I saw this as a major flaw as it hindered the user experience. I was able to solve this issue using JavaScript and DOM manipulation, allowing data to be displayed to the user, more akin to a single-page application, without causing the page to refresh. This resulted in a much cleaner user experience and more polished website.	 
+I cherish tackling problems and finding solutions. This was highlighted during the final engineering project at Makers when we were trying to create a 2d game. We struggled to progress using React Native and after three days of little progress I identified that team morale was low and time was running out. I researched an alternative library (p5.js), and proposed moving away from React Native. This was well received by the team, who were thankful that I took the initiative and found a solution. It resulted in us quickly progressing with our application. The final product was delivered on time and an overwhelming success, definitely exceeding our initial expectations.	
   
  #### Critical thinking  
 
-My Bachelor's degree in History and Master's degree in International Relations taught me to think critically. This skill has been transferred and improved during my programming studies. I have learnt not simply to be satisfied by the easiest or first solution to solving a problem, I always question if there is a better solution or whether mine can be improved upon. 
+My Bachelor's degree in History and Master's degree in International Relations have both taught me to think critically. This skill has been transferred and improved during my programming studies. I have learnt not simply to be satisfied by the easiest or first solution to solving a problem, I always question if there is a better solution or whether mine can be improved upon. For example, when I was working on making a clone of Instagram using Ruby on Rails I noticed that after each user action it would cause the page to refresh. I saw this as a major flaw as it hindered the user experience. I was able to solve this issue using JavaScript and DOM manipulation, allowing data to be displayed to the user, more akin to a single-page application, without causing the page to refresh. This resulted in a much cleaner user experience and more polished website.	 
   
 #### Curiosity 
  
-I have always been interested in learning more and expanding my knowledge, this was what led me to study History. This same curiosity is what has guided me into programming and instigated my career swap. I am always looking to figure out why and how programs work, breaking them down and changing them in order to develop a better understanding and a better product.
-  
+I have always been interested in learning more and expanding my knowledge, this was what led me to study History. I wanted to learn more about past events and draw parallels with the present. This same curiosity is what has guided me into programming and instigated my career swap. As soon as I started coding I found myself immersed in figuring out why and how programs work, breaking them down and changing them in order to develop a better understanding and a better product. Before Makers I was curious as to how exactly mobile applications were created, and being an Android user, how they were created for Android. So I taught myself Java and created an application that allowed users to divide tasks between each other.
+    
  #### Teamwork 
 
-Having been both a leader and member of various teams, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. This was highlighted during the final engineering project at Makers when we were trying to create a 2d game. We struggled to progress using React Native and after three days of little progress I identified that team morale was low and time was running out. I researched an alternative library (p5.js), and proposed moving away from React Native. This was well received by the team, who were thankful that I took the initiative and found a solution. It resulted in us quickly progressing with our application. The final product was delivered on time and an overwhelming success, definitely exceeding our initial expectations.	
+Having been both a leader and member of various teams when working at the United Nations, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. Moreover, Makers' focus on implementing agile methadologies has allowed me get experience with pair-programing, upholding XP values, and organizing projects around sprints, using daily standups and retros to manage progress.
   
-#### Languages  
+#### Languages / Diverse background 
 
-_Fluent in English, French, Italian and highly competent in Spanish_
-
-My ability to learn and speak multiple languages has translated in my programming. Paired with a learning mindset that always looks for improvement, it has created the foundation for me to easily pick up new languages and tools.
+I have an international background, having lived in Italy, France, Switzerland and the UK. I also speak 4 languages: Italian, French, English fluently and am highly competent in Spanish. My diverse background has exposed me to a plethora of different cultures and people, I am able to easily 
+  
+  and allows me to bring a unique mindset and approach to working in a team as well as solving challenges. 
 
 # Work Experience 
 
