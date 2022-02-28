@@ -44,14 +44,12 @@ I have always been interested in learning more and expanding my knowledge, this 
     
  #### Teamwork 
 
-Having been both a leader and member of various teams when working at the United Nations, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. Moreover, Makers' focus on implementing agile methadologies has allowed me get experience with pair-programing, upholding XP values, and organizing projects around sprints, using daily standups and retros to manage progress.
+Having been both a leader and member of various teams when working at the United Nations, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. Moreover, Makers' focus on implementing agile methadologies has allowed me get experience with pair-programing, upholding XP values, and organizing projects around sprints, using daily standups and retros to manage progress. 
   
 #### Languages / Diverse background 
 
-I have an international background, having lived in Italy, France, Switzerland and the UK. I also speak 4 languages: Italian, French, English fluently and am highly competent in Spanish. My diverse background has exposed me to a plethora of different cultures and people, I am able to easily 
-  
-  and allows me to bring a unique mindset and approach to working in a team as well as solving challenges. 
-
+I have an international background, having lived in Italy, France, Switzerland and the UK. I also speak 4 languages: Italian, French, English fluently and am highly competent in Spanish. My diverse background has exposed me to a plethora of different cultures and people, and allows me to bring a unique mindset which is open minded and always adaptable, making me successful when working in a team as well as solving challenges. 
+ 
 # Work Experience 
 
 #### Right Livelihood (January - March 2020)
