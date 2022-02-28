@@ -44,7 +44,8 @@ I have always been interested in learning more and expanding my knowledge, this 
     
  #### Teamwork 
 
-Having been both a leader and member of various teams when working at the United Nations, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. Moreover, Makers' focus on implementing agile methadologies has allowed me get experience with pair-programing, upholding XP values, and organizing projects around sprints, using daily standups and retros to manage progress. 
+Having been a leader and member of various teams both professionally and also through football, has taught me how to effectively communicate, collaborate, organize and support others in a team environment. When I worked at the United Nations we were often faced with inneffective communication which led to work duplication. To alleviate this problem I took on a leadership position and helped distribute tasks and manage timelines. This not only resulted in the team meeting more deadlines, but also the team reported feeling less over-worked and more efficient in their daily activities.
+ 
   
 #### Languages / Diverse background 
 
