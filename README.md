@@ -51,7 +51,6 @@ Having been both a leader and member of various teams, has taught me how to effe
 _Fluent in English, French, Italian and highly competent in Spanish_
 
 My ability to learn and speak multiple languages has translated in my programming. Paired with a learning mindset that always looks for improvement, it has created the foundation for me to easily pick up new languages and tools.
-# Work Experience 
 
 # Work Experience 
 
