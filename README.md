@@ -5,7 +5,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
   
-Bachelor's degree in History and Master's degree in International Relations, formerly worked at the United Nations and the Right Livelihood Award Foundation.
+Bachelor's degree in History and Master's degree in International Relations, formerly worked in Human Rights at the United Nations and Right Livelihood.
 
 My journey into coding all started with a free course offered by Stanford University at the start of the Covid-19 pandemic. I stumbled around trying to make Karel the robot stop spinning endlessly across my screen, as I figured out how loops worked. 
   
@@ -15,7 +15,7 @@ I am looking for a role where I can continue to learn and expand my programming 
 
 Portfolio website --> https://alfonsoghislieri.github.io/Portfolio/
  <br>
-Blog --> https://medium.com/@Alfonso_Ghislieri
+Blog (reflections on my learning) --> https://medium.com/@Alfonso_Ghislieri
 
 # Projects 
 
