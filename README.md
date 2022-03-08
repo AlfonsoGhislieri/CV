@@ -94,7 +94,7 @@ _Frontend Web-Dev Intern_
 _16-week highly selective coding bootcamp, learning best practices and agile methodologies_
 - JavaScript, Ruby, Rails, Sinatra, RSpec, Jest.
 - Followed OOP, TDD and S.O.L.I.D principles, to write clear, modular and well-tested code.
-- Emphasis on self-learning. Organized my own learning and set personal goals, used my Blog to reflect.
+- Emphasis on self-learning. Organized my own learning and set personal goals, used my [Blog](https://medium.com/@Alfonso_Ghislieri) to reflect.
 - Took a leadership position in implementing Agile methodologies when working on group engineering projects. Used daily standups, retros and sprint planning to manage progress and deliver on time.
 - Collaborated on projects using GitHub for version control and used continuous integration / continuous deployment to reduce integration risks.
 - Learnt to understand project requirements, creating user stories, defining features for an MVP and breaking features into smaller tasks to easily accomplish them.
