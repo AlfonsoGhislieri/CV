@@ -58,7 +58,7 @@ I have an international background, having lived in Italy, France, Switzerland a
 
 _Protection and Advocacy Intern_ 
 
-- Monitored human rights violations and at risk human rights defenders.
+- Worked with stakeholders to monitor human rights violations and at risk human rights defenders.
 - Researched and submitted a report to the United Nations regarding human rights violations against Dalit girls in India.
 - Delivered an oral statement during the 43rd session of the Human Rights Council.
 - Contributed in the preparation and drafting of the Human Rights Council(HRC) end of session report.
