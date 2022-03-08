@@ -9,13 +9,12 @@ Bachelor's degree in History and Master's degree in International Relations, for
 
 My journey into coding all started with a free course offered by Stanford University at the start of the Covid-19 pandemic. I stumbled around trying to make Karel the robot stop spinning endlessly across my screen, as I figured out how loops worked. 
   
-I was instantly hooked. I loved how much there was to learn. All the different rabbit holes to go down. The freedom to create anything. So I continued studying, learning new languages, creating programs, slowly making them more and more complex. I'd be lying if I didn't at times spend hours frustrated and unable to fix a bug which ended up just being a misnamed variable or a missing bracket. But, I knew that I was truly passionate about programming and therefore it was something I should pursue as a career rather than just as a hobby.
+I was instantly hooked. I loved how much there was to learn. All the different rabbit holes to go down. The freedom to create anything. So I continued studying, learning new languages, creating programs, slowly making them more and more complex. I'd be lying if I didn't at times spend hours frustrated and unable to fix a bug which ended up just being a misnamed variable or a missing bracket. But, I knew that I was truly passionate about programming and therefore it was something I should pursue as a career rather than just as a hobby. My progress and reflections along this journey can be seen on my [blog](https://medium.com/@Alfonso_Ghislieri).
   
 I am looking for a role where I can continue to learn and expand my programming knowledge.
 
 Portfolio website --> https://alfonsoghislieri.github.io/Portfolio/
  <br>
-Blog (reflections on my learning) --> https://medium.com/@Alfonso_Ghislieri
 
 # Projects 
 
