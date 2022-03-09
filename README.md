@@ -2,7 +2,8 @@
   
 # Alfonso Ghislieri
 *Full stack software engineer*
-contact me: alfonso.ghis@hotmail.fr
+  </br>
+alfonso.ghis@hotmail.fr
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
   
